@@ -1,0 +1,1 @@
+alert("Hello EKTA!!\n Your friend TRISHALA told us that today is ur birthday\nwishing you very very hApPY bIrThdAY MISS EKTA SINGH :)");
